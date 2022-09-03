@@ -1,0 +1,89 @@
+[
+	{
+		"id": "GFyT55DfEs83wZxavxBR91udxHBW7fnjzgdvtyejzcpV",
+		"lpMint": "2uv1kymqqTkxk5KtzYXEpMzr2Ek9CKpuK71RdKjVsFd6",
+		"version": 3,
+		"programId": "85BFyr98MbCUU9MVTEgzx1nbhWACbJqLzho6zd6DZcWL",
+		"authority": "AvqpBdPJNuU9KLcddidix4nnY1yez9uPSFYgy22FDcTY",
+		"lpVault": "4vFmu9zvGxL1gAyQKG4HG5dE7uFqA99dVetEbAo8K29h",
+		"upcoming": false,
+		"rewardInfos": [
+			{
+				"rewardMint": "FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU",
+				"rewardVault": "7VZt2QGZo4nffhHVSqHBQjmfMjgDn9rRPsEYKaqhx6wU"
+			}
+		]
+	},
+	{
+		"id": "Ef9E4HxzATN6Kb3h8W4ZnDF2q7AxiMt6wh3NH61Si6oD",
+		"lpMint": "2uv1kymqqTkxk5KtzYXEpMzr2Ek9CKpuK71RdKjVsFd6",
+		"version": 3,
+		"programId": "85BFyr98MbCUU9MVTEgzx1nbhWACbJqLzho6zd6DZcWL",
+		"authority": "6YwmRkxFA8CNDUoXPABoxNsc4QX3G23Jf61PnjN7kuEB",
+		"lpVault": "Fphh8wdUsvu4TCdYaH7HUpFXfwUxeewbVEU6LpS5XCYA",
+		"upcoming": false,
+		"rewardInfos": [
+			{
+				"rewardMint": "FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU",
+				"rewardVault": "581XbPEbihxUMdCotBY2FDrdaY8tdCSmZ8TuLWLH7FXN"
+			}
+		]
+	},
+	{
+		"id": "2Bsexc5j6vk4r9RhBYz2ufPrRWhumXQk6efXucqUKsyr",
+		"lpMint": "14Wp3dxYTQpRMMz3AW7f2XGBTdaBrf1qb2NKjAN3Tb13",
+		"version": 5,
+		"programId": "EcLzTrNg9V7qhcdyXDe2qjtPkiGzDM2UbdRaeaadU5r2",
+		"authority": "BxAtWJ4g6xguPsR9xNvXTK7EjuzwiKNbmKbhoXDZ3EsY",
+		"lpVault": "83BEhzv7eV4HeJuuPtYmHkhTjZEpNpK83mHnHfX5Krwj",
+		"upcoming": false,
+		"rewardInfos": [
+			{
+				"rewardMint": "BEcGFQK1T1tSu3kvHC17cyCkQ5dvXqAJ7ExB2bb5Do7a",
+				"rewardVault": "HVtAJ1uRiWJ7tNU9uqAzpPv14B3fN9SVEW9G4PtM77Ci"
+			},
+			{
+				"rewardMint": "FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU",
+				"rewardVault": "39Ea6rMGGrsNmEsYToqQfEyNSqv7hcUJa646qBYLY4yq"
+			}
+		]
+	},
+	{
+		"id": "B9gGrvcs1zGHWNjmaYcLPurMS3pMVBLuBZGp1vJuFUTg",
+		"lpMint": "2uv1kymqqTkxk5KtzYXEpMzr2Ek9CKpuK71RdKjVsFd6",
+		"version": 5,
+		"programId": "EcLzTrNg9V7qhcdyXDe2qjtPkiGzDM2UbdRaeaadU5r2",
+		"authority": "GcYMyHwqJyQ9EobR1sNrq5eP2FTRSA1q61Qzw1ofSJUv",
+		"lpVault": "34hKVPBm3e42EKgfhtpe8PoTLPq5UYmhFthc2QuprK9j",
+		"upcoming": false,
+		"rewardInfos": [
+			{
+				"rewardMint": "FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU",
+				"rewardVault": "BdGxBXYoR6ynHUBDrAecBRjpLAwUNh6SxhbCBA5o9nm4"
+			},
+			{
+				"rewardMint": "BEcGFQK1T1tSu3kvHC17cyCkQ5dvXqAJ7ExB2bb5Do7a",
+				"rewardVault": "GsgZyk8f42Bhz2iPNZBxq2FXAXrnU8SXnozfQUUiPAkh"
+			}
+		]
+	},
+	{
+		"id": "A38ShVmXkNqj3ygBPQtsWeQXX83moXbbbQpfzap2qVtn",
+		"lpMint": "2uv1kymqqTkxk5KtzYXEpMzr2Ek9CKpuK71RdKjVsFd6",
+		"version": 5,
+		"programId": "EcLzTrNg9V7qhcdyXDe2qjtPkiGzDM2UbdRaeaadU5r2",
+		"authority": "47qCxUi75pMyqo2VqKChmuEQTRampWcDhSqfw9mBzqJU",
+		"lpVault": "DwPmiPdPyrKyqtphZ5CRTNugFpgNSzA65QVPYHXwKc9d",
+		"upcoming": false,
+		"rewardInfos": [
+			{
+				"rewardMint": "FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU",
+				"rewardVault": "CYyH2L9V5yGJvbe3ymmahtGzV5tZBz1XBr3dHm5jLyFs"
+			},
+			{
+				"rewardMint": "BEcGFQK1T1tSu3kvHC17cyCkQ5dvXqAJ7ExB2bb5Do7a",
+				"rewardVault": "C4c1pD9JhtuhugtXqV6AGs2ziQML9nv5rwWbB1fmYFJ"
+			}
+		]
+	}
+]
