@@ -2,7 +2,7 @@
 
 This repo is used for study and investigation on raydium's liquidity and farm pools.
 
-Network used: `devnet`
+Solana network used: `devnet`
 
 ## Usage
 
